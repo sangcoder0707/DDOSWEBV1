@@ -2,4 +2,5 @@
 
 # Cách Setup Java
 
-Pkg install java
+
+pkg install java
